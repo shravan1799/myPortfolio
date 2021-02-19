@@ -9,7 +9,7 @@ const settings = {
 const greeting = {
   title: "Hello.",
   title2: "Shravan",
-  logo_name: "{shravan.patel}",
+  logo_name: "Shravan.Patel",
   nickname: "Shravan1799 / shravan1711",
   full_name: "Shravan Patel",
   subTitle:
@@ -27,7 +27,7 @@ const socialMediaLinks = {
   gitlab: " ",
   facebook: " ",
   twitter: "https://twitter.com/Shravan1711",
-  instagram: "https://www.instagram.com/shinchan_nubs/",
+  instagram: "https://www.instagram.com/shravan_patel_17/",
 };
 
 const skills = {
