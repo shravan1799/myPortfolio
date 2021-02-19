@@ -9,13 +9,13 @@ const settings = {
 const greeting = {
   title: "Hello.",
   title2: "Shravan",
-  logo_name: "Shravan.Patel",
+  logo_name: "{shravan.patel}",
   nickname: "Shravan1799 / shravan1711",
   full_name: "Shravan Patel",
   subTitle:
     "Web developer. Computer Vision & Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1fz63oXKL564_cxCGiJUs2u2dyqFNf0Eb/view?usp=sharing",
+    "https://drive.google.com/file/d/1Y4Cbm_UsmQaZtZsjeLOHDndy2z6Y9hHK/view?usp=sharing",
   mail: "mailto:shravan1711@gmail.com",
 };
 
@@ -27,7 +27,7 @@ const socialMediaLinks = {
   gitlab: " ",
   facebook: " ",
   twitter: "https://twitter.com/Shravan1711",
-  instagram: "https://www.instagram.com/shravan_patel_17/",
+  instagram: "https://www.instagram.com/shinchan_nubs/",
 };
 
 const skills = {
@@ -120,7 +120,7 @@ const skills = {
       ],
     },
     {
-      title: "ML/DL, AI, Computer Vision",
+      title: "ML, AI, Computer Vision",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Experience of working with Computer Vision projects",
@@ -332,7 +332,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I post my findings on Github repos",
+      "I don't blog frequently, but I do post my project work on Github.",
   },
 };
 
