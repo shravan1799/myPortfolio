@@ -18,20 +18,20 @@ export const lightTheme = {
 };
 
 export const darkTheme = {
-  body: "#1D1D1D",
+  body: "#334E68",
   text: "#FFFFFF",
-  text2: "#7E8CA9",
-  accentColor: "#E3405F",
+  text2: "#05f0f0",
+  accentColor: "#0ce7eb",
   highlight: "#ECECEC",
   highlight1: "#FFE39A",
   highlight2: "#FAADC1",
   highlight3: "#D2BCFE",
   highlight4: "#F7D0BB",
   dark: "#000000",
-  secondaryText: "#8D8D8D",
+  secondaryText: "#101012",
   compImgHighlight: "#E6E6E6",
-  jacketColor: "#E3405F",
-  headerColor: "#0E6BA877",
+  jacketColor: "#000000",
+  headerColor: "#10e871",
   svgBg: "#000000",
   contactButtonColor: "#FC1056",
 };
