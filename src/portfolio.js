@@ -15,7 +15,7 @@ const greeting = {
   subTitle:
     "Web developer. Computer Vision & Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1Y4Cbm_UsmQaZtZsjeLOHDndy2z6Y9hHK/view?usp=sharing",
+    "https://drive.google.com/file/d/1fz63oXKL564_cxCGiJUs2u2dyqFNf0Eb/view?usp=sharing",
   mail: "mailto:shravan1711@gmail.com",
 };
 
@@ -294,7 +294,7 @@ const experience = {
         },
       ],
     },
-    {
+    /*{
       title: "Volunteerships",
       experiences: [
         {
@@ -309,7 +309,7 @@ const experience = {
           color: "#4285F4",
         },
       ],
-    },
+    },*/
   ],
 };
 
@@ -317,7 +317,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Machine learning and AI projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Machine learning, AI and Computer Vision projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
   avatar_image_path: "projects_image.svg",
 };
 
