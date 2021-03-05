@@ -27,7 +27,7 @@ const socialMediaLinks = {
   gitlab: " ",
   facebook: " ",
   twitter: "https://twitter.com/Shravan1711",
-  instagram: "https://www.instagram.com/shravan_patel_17/",
+  instagram: "https://www.instagram.com/shinchan.nub/",
 };
 
 const skills = {
