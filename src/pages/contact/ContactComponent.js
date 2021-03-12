@@ -60,7 +60,7 @@ function Contact(props) {
                 {blogSection["subtitle"]}
               </p>
               <div className="blogsite-btn-div">
-                <a className="resume-btn" href={blogSection.link} target="_blank">
+                <a className="resume-btn" href={blogSection.link}>
                   My Github Profile
                 </a>
               </div>
