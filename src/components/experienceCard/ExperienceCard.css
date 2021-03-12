@@ -4,7 +4,6 @@
   border-radius: 10px;
   display: flex;
   flex-direction: row;
-  background-color: #6494c2;
 }
 
 .experience-card-logo-div {
@@ -118,8 +117,6 @@
     width: 100px;
   }
 
-  .experience-card-body-div {
-  }
 
   .experience-card-heading-left {
     float: center;

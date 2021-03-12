@@ -221,7 +221,7 @@ const certifications = {
   certifications: [
     {
       title: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
-      subtitle: "Andrew Ng",
+      subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
         "https://coursera.org/share/b5b0dd3f2904d98fb2f54d0ad538cfa1",
@@ -230,7 +230,7 @@ const certifications = {
     },
     {
       title: "Neural Networks and Deep Learning",
-      subtitle: "Andrew Ng",
+      subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
         "https://coursera.org/share/a9e455763583f51623edbb5a96b11437",
@@ -252,7 +252,7 @@ const certifications = {
       logo_path: "cera.jpg",
       certificate_link: "https://coursera.org/share/677cd117f6d9ba8d4ce121894567a969",
       alt_name: "Coursera",
-      color_code: "#FFFFFF",
+      color_code: "#bff2bd",
     },
     {
       title: "Machine Learning - MNIST Dataset",
@@ -336,9 +336,119 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently, but I do post my project work on Github.",
+    link: "https://github.com/shravan1799",
   },
+  
 };
 
+const projects = {
+  "data": [
+    {
+      "id": "1",
+      "name": "Drowsiness Detection",
+      "url": "https://github.com/shravan1799/Drowsiness_Detection_Python",
+      "description": "Machine learning trained model used for detecting drowsiness of the person driving a vehicle. For safety purpose, in smart vehicles.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos-opencv"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Image Search Engine",
+      "url": "https://github.com/shravan1799/image-search-engine",
+      "description": "Python based image search engine, which gives results based on the image passed as query.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Face Detection and Recognition System (FDRS)",
+      "url": "https://github.com/shravan1799/Face-recognition-detection",
+      "description": "Fully functional project of face training and recognition using inbuilt trainer in Python, OpenCV.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos-opencv"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Live Doodle Drawing",
+      "url": " ",
+      "description": "Training various class of images from Google Doodle dataset and recognise them using machine learning after doodles are drawn.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos-opencv"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "logos-tensorflow"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Image segregation using K-means",
+      "url": "https://github.com/shravan1799/image-segregation-using-K-means",
+      "description": "Segregating similar images from a large dataset of distinct images using K-means clustering.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Image Captioning",
+      "url": "https://github.com/shravan1799/Image-caption-generator",
+      "description": "Ongoing. Used Flickr8k for image captioning.",
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
 export {
   settings,
   greeting,
@@ -349,4 +459,5 @@ export {
   experience,
   projectsHeader,
   contactPageData,
+  projects,
 };
