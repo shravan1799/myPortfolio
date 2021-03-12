@@ -10,7 +10,7 @@ const lightTheme = {
   projectCard: "#DCE4F2",
   skinColor: "#F7B799",
   skinColor2: "#FCB696",
-  imageDark: "#000a07",
+  imageDark: "#d0efd9",
   imageClothes: "#1073c9",
   avatarMisc: "#6f96e3",
   avatarShoes: "#ccd2e3",

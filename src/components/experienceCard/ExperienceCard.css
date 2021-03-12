@@ -77,12 +77,12 @@
 
 .experience-card-company > a {
   position: relative;
-  color: #334d46;
+  color: #8c8c8c;
   text-decoration: none;
 }
 
 .experience-card-company > a:hover {
-  color: #FFFFFF;
+  color: #8c8c8c;
 }
 
 .experience-card-company > a:hover:before {
@@ -98,7 +98,7 @@
   height: 1px;
   bottom: 0;
   left: 0;
-  background-color: #2c18e4;
+  background-color: #8c8c8c;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -141,7 +141,6 @@
   .experience-card-duration {
     margin-top: 2px;
     text-align: center;
-    color: aliceblue;
   }
 
   .experience-card-location {
