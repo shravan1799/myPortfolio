@@ -204,7 +204,7 @@ const degrees = {
     {
       title: "Indus Institute of Technology and Engineering",
       subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "logo.png",
+      logo_path: "logo.jpg",
       alt_name: "IITE",
       duration: "2017 - Present",
       descriptions: [
