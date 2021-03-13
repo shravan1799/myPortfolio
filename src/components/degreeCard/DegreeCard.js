@@ -15,8 +15,7 @@ class DegreeCard extends Component {
                 transform: "scale(50%, 50%)",
                 maxHeight: "100%",
                 maxWidth: "100%",
-                height: "150px",
-                width: "200px",
+                
               }}
               src={require(`../../assests/images/${degree.logo_path}`)}
               alt={degree.alt_name}
