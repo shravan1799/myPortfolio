@@ -1,11 +1,11 @@
 const lightTheme = {
   name: "light",
-  body: "#FFFFFF",
+  body: "#edfbff",
   text: "#343434",
   secondaryText: "#0d7791",
   accentColor: "#088056",
   dark: "#000000",
-  jacketColor: "#088056",
+  jacketColor: "#05422d",
   contactButtonColor: "#FC1056",
   projectCard: "#DCE4F2",
   skinColor: "#F7B799",
